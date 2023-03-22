@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="16" height="16"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-favicon);
+      }
+
+      .cls-2 {
+        fill: #0f6da0;
+      }
+
+      .cls-3 {
+        fill: #78a3ad;
+      }
+
+      .cls-4 {
+        fill: #48c0e5;
+      }
+    </style>
+    <clipPath id="SvgjsClipPath1011">
+      <rect width="16" height="16"></rect>
+    </clipPath>
+  </defs>
+  <g id="SvgjsG1010" class="cls-1">
+    <g id="SvgjsG1009" transform="translate(-0.815 4)">
+      <path id="SvgjsPath1008" data-name="Path 1" class="cls-2" d="M16.695,11.038l-5.157-.7a1.6,1.6,0,0,0-.55.025.318.318,0,0,0-.077.589l2.546,1.293,3.238-1.2Z" transform="translate(-5.193 -7.859)"></path>
+      <path id="SvgjsPath1007" data-name="Path 2" class="cls-3" d="M20.555,17.688a.448.448,0,1,1-.448-.448A.448.448,0,0,1,20.555,17.688Z" transform="translate(-10.051 -11.631)"></path>
+      <path id="SvgjsPath1006" data-name="Path 3" class="cls-3" d="M31.018,11.276a.448.448,0,1,1-.448-.448A.448.448,0,0,1,31.018,11.276Z" transform="translate(-15.754 -8.136)"></path>
+      <path id="SvgjsPath1005" data-name="Path 4" class="cls-2" d="M30.757,6.86s.025.525-.9.793c-.141.051.025.55.153.55.153,0,1.894-.6,1.868-1.2a3.416,3.416,0,0,0-1.126-.141Z" transform="translate(-15.582 -5.973)"></path>
+      <path id="SvgjsPath1004" data-name="Path 6" class="cls-4" d="M3.552,10.866a.206.206,0,0,1,.051-.333c1.663-.781,10.749-5,11.657-5.438a1.781,1.781,0,0,1,2,.307c.256.217.55.064.729.333s.128.972-1.881,1.894c-2.162,1-6.628,3.046-7.537,3.43-.87.371-3.557,1.049-5.016-.192Z" transform="translate(-1.238 -4.911)"></path>
+      <path id="SvgjsPath1003" data-name="Path 7" class="cls-2" d="M17.858,13.1a.135.135,0,0,0,.025-.153,1.048,1.048,0,0,0-.985-.512,11.072,11.072,0,0,0-3.071,1.42.169.169,0,0,0,0,.294.35.35,0,0,1,.128.474l-1.586,2.763a.256.256,0,0,0,.23.371h.167a1.316,1.316,0,0,0,.947-.409Z" transform="translate(-6.062 -9.01)"></path>
+      <path id="SvgjsPath1002" data-name="Path 8" class="cls-2" d="M5.517,17.542c-.294.153-.652.333-.832.435a.3.3,0,0,0-.1.115l-.23.857a.227.227,0,0,0,.4.192l1.075-1.408c.115-.167-.051-.333-.307-.192Z" transform="translate(-1.706 -11.766)"></path>
+      <path id="SvgjsPath1001" data-name="Path 9" class="cls-2" d="M3.854,13.952c-.038-.179-.832-.115-1.471-.4-.844-.371-1.318-.627-1.728-.819a.211.211,0,0,0-.269.32l1.408,2.009a.139.139,0,0,0,.167.038,17.062,17.062,0,0,0,1.894-1.152Z" transform="translate(0.482 -9.161)"></path>
+      <path id="SvgjsPath1000" data-name="Path 10" class="cls-2" d="M32.52,5.717a2.438,2.438,0,0,1-.832.652.275.275,0,0,1-.282-.473c.09-.064.2-.141.282-.192a3.46,3.46,0,0,0,.333-.333S32.226,5.5,32.52,5.717Z" transform="translate(-16.386 -5.162)"></path>
+    </g>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
