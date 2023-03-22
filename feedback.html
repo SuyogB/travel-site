@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feedback</title>
+  <link rel="stylesheet" href="css/feedback.css">
+
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <div class="wrapper">
+
+      <div class="main-txt">
+        <h2>Feedback</h2>
+      </div>
+
+      <form action="#" id="feedbackData">
+        <label for="name">Name</label>
+        <input type="text" id="name" class="form-control" placeholder="Name" required><br>
+        <br>
+
+        <label for="date">Date</label>
+        <input type="date" id="date" class="form-control" placeholder="Date of Trip" required><br>
+        <br>
+        <label for="time">Time</label>
+        <input type="time" id="time" class="form-control" placeholder="Time of Trip" required><br>
+        <br>
+        <label for="location">Trip to</label>
+        <input type="text" id="location" class="form-control" placeholder="Location of Trip" required><br>
+        <br>
+
+      
+
+        <label for="img">Select image:</label>
+        <input type="file" id="img" name="img" accept="image/*">
+        <br>
+        <br>
+
+      </form>
+      <p class="text">How Would You Rate Our Service?</p>
+
+
+      <div class="emoji">
+        <div>😣</div>
+        <div>😐</div>
+        <div>🙂</div>
+        <div>😃</div>
+        <div>😍</div>
+      </div>
+    </div>
+
+    <textarea name="feedbackText" class="textarea" id="feedbackText" cols="30" rows="3"
+      placeholder="What can we improve?"></textarea>
+
+
+    <a class="btn">Send</a>
+
+  </div>
+
+  <script src="js/feedback.js"></script>
+</body>
+
+</html>
