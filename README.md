@@ -12,6 +12,10 @@ TRAVO is a responsive landing page developed for a Travel Agency, utilizing HTML
 - **Cross-Browser Compatibility**: Ensured the website works seamlessly across different web browsers.
 - **Performance Optimization**: Optimized for fast loading times to enhance user engagement and retention.
 
+## Deployment
+
+The website is deployed and can be accessed at: [TRAVO - Landing Page](https://suyogb.github.io/travel-site/)
+
 ## Screenshots
 
 ### Landing Page
@@ -32,4 +36,3 @@ TRAVO is a responsive landing page developed for a Travel Agency, utilizing HTML
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
